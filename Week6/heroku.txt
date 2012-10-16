@@ -1,0 +1,5 @@
+Heroku is hard on the eyes at first glance.  I don't feel like the dark purple and sets the right tone for the site.  I do like the graphics on the site.  It is nice that even though the site is dark you can hover your mouse over a section and it lights up.  To be honest for the site selling a cloud platform it is pretty boring.  It interacts but doesn't draw the attention to do so.
+
+The apps running ticker is pretty nice.  This shows potential customer's how many people are currently utilizing this cloud application platform.  It has a smart "How it Works" section that shows how the cloud setup functions.  This is a cool feature that can answer a lot of customer questions.
+
+Overall, the site delivers the information that it needs to to attract new customers.  The problem being, that it is just unappealing to the eye and rather boring to look at even though it is semi interactive.  I feel like some better design could improve on this.

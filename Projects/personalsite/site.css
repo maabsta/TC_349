@@ -46,13 +46,24 @@ h2.nav {
 margin: 0px;
 }
 
+.container {
+margin: 0 auto;
+width: 200x;
+}
+
+section {
+width: 600px;
+margin-right: 20px;
+float: left;
+}
+
 #navbar li {
 display: inline;
 ist-style: none;
 }
 
-#navbar a {
-padding: 0px 50px 0px 50px;
+a {
+padding: 0px 45px 0px 45px;
 font-family: Arial;
  font-weight: bold;
  color: #ADFF2F;
@@ -60,21 +71,21 @@ font-family: Arial;
  text-decoration: none;
 }
 
-#navbar a:hover {
+a:hover {
 font-family: Arial;
 font-weight: bold;
 text-decoration: underline;
 color: #90EE90;
 }
 
-#navbar a:visited {
+a:visited {
 font-family: Arial;
 font-weight: bold;
 text-decoration: none;
 color: #7FFF00;
 }
 
-#navbar a:active {
+a:active {
 font-family: Arial;
 font-weight: bold;
 text-decoration: none;
