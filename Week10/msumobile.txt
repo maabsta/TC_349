@@ -1,0 +1,5 @@
+I like most of the design for the MSU mobile site.  It carries over the general theme from the main website while maintaining most of the key items in a compact format.
+
+The search bar is obviously a key function of this site.  It is located right under the banner and draws most of your attention.  After this you'll find buttons for key site areas with a matching image once again sticking to the main MSU color scheme.  The main problem I have with the site, browsing from an Android phone is that you can scroll.  All the content fits on a single page at least how I can view it.  The ability to scroll just seems useless when the format is already so compact.
+
+Overall, I like the site but think there should be a Student button.  The theme is consistent with the MSU main site and looks overall pretty clean.  The formatting is also a little off on the right side.  Besides these small items the mobile site is off to a good start.
